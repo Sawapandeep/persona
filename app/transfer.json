@@ -1,0 +1,10 @@
+{
+    "data":{
+        "Landing Page Main Wrapper":"page",
+        "Landing Page Header":"header",
+        "Landing Page Hero Section":"heroSection",
+        "Landing Page Core Features Section":"featureSection",
+        "Landing Page CTA Section":"ctaSecion",
+        "Landing Page Footer":"Footer"
+    }
+}
